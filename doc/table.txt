@@ -1,0 +1,24 @@
+message
+id
+sender
+recipient
+message
+sent date
+
+
+
+feedback
+informer
+status new, process, done, reject
+message
+type report customer, feedback
+customer_id
+
+
+user		MC
+message		MC
+feedback	MC
+auth		C
+
+
+

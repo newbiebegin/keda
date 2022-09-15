@@ -1,0 +1,4 @@
+rename folder menjadi seeds -> seeders
+menambah namespace Database/seeders
+composer dump-autoload
+-------------------------------------
